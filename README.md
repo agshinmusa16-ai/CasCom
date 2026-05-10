@@ -69,8 +69,8 @@ Six models were tested via rolling out-of-sample backtest (3Y train, quarterly r
 
 ```
 📁 CasCom/
-├── CasCom_final.ipynb          # Full analysis notebook (VS Code)
 ├── CasCom Research Report.pdf  # 33-page research report
+├── CasCom_final.ipynb          # Full analysis notebook (VS Code)
 ├── LICENCE
 ├── README.md
 ```
